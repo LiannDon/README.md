@@ -1,4 +1,4 @@
-**## Distance Calculator**
+## Distance Calculator
 
 ## Description
 
